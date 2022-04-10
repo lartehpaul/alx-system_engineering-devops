@@ -1,1 +1,1 @@
-listing hidden files
+display content
