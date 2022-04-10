@@ -1,1 +1,1 @@
-print contents
+change directory
