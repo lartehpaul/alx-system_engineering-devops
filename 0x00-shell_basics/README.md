@@ -1,1 +1,1 @@
-my first scripting
+print contents
