@@ -1,1 +1,1 @@
-absolute path name
+script printing current directory
