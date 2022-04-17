@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'a-ZA-Z' 'n-Za-mN-ZA-M'
+echo 'This is a Test' | tr 'A-Za-z' 'N-ZA-Mn-za-m'
